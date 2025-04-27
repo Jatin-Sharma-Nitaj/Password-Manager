@@ -16,8 +16,7 @@ LocalStorage-based — no backend needed.
 
 Lightweight and fast.
 
-🚀 Technologies Used
-HTML5
+🚀 Technologies Used-
 
 React 
 
