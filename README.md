@@ -1,6 +1,6 @@
 🔒 Password Manager
 
-A simple and sleek Password Manager built with HTML, CSS (TailwindCSS), and JavaScript.
+A simple and sleek Password Manager built with React,TailwindCSS, and JavaScript.
 It allows you to store, copy, and manage your passwords directly in your browser using Local Storage.
 
 Live Demo: [PassGurd](https://passgurd.netlify.app/) 🔗
