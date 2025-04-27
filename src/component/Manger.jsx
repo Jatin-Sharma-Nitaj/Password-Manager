@@ -42,7 +42,6 @@ const Manager = () => {
                 theme: "dark",
             });
         }
-
     };
     const editPassword = (id) => {
         console.log("Editing password with id ", id)
